@@ -1,6 +1,7 @@
-* Sequência para criar um projeto
+SEQUÊNCIA PARA CRIAR O PROJETO.
 
-** Criar o arquivo package.json com o comando abaixo.
-### npm init ou yarn init
+** Criar o arquivo package.json
+## npm init
 
 ** Gerencia as requisições, rotas e URLs, entre outras funcionalidades.
+### npm i express -D
