@@ -5,3 +5,6 @@ SEQUÊNCIA PARA CRIAR O PROJETO.
 
 ** Gerencia as requisições, rotas e URLs, entre outras funcionalidades.
 ### npm i express -D
+
+** Rodar o projeto
+### node app.js"
